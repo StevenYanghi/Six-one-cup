@@ -2,7 +2,7 @@ function ad(){
     alert("-蒙猪牛奶，助力追梦!         -巴萨和牛，你的最优选！");
 }
 
-var slides = document.getElementsByClassName("Main");
+var slides = document.getElementsByClassName("slide");
 var currentSlide = 0;
 
 function showSlide() {
