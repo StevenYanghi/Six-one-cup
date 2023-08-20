@@ -2,8 +2,15 @@ body{
     margin:0;
 }
 
+.slideshow-container {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+
+  }
 .Main{
-    display:block;
+    display:none;
     margin-left:auto;
     margin-right:auto;
     width:100%;
